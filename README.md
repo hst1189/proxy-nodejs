@@ -1,4 +1,4 @@
-# nodejs-ws
+# nodejs-proxy
 
 基于serverless实现的vless+ trojan+ shadowsocks 三协议，无内核，nodejs通用项目
 
